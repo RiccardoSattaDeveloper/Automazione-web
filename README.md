@@ -6,6 +6,8 @@
 
 ---
 
+Dopo aver clonato la repository, crea un ambiente virtuale:
+
 cd Automazione Web
 
 python3 -m venv venv310
